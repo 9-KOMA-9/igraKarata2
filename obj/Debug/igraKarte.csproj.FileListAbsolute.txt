@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\igraKarte\bin\Debug\igraKarte.exe.config
+C:\Users\ucenik\source\repos\igraKarte\bin\Debug\igraKarte.exe
+C:\Users\ucenik\source\repos\igraKarte\bin\Debug\igraKarte.pdb
+C:\Users\ucenik\source\repos\igraKarte\obj\Debug\igraKarte.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\igraKarte\obj\Debug\igraKarte.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\igraKarte\obj\Debug\igraKarte.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\igraKarte\obj\Debug\igraKarte.exe
+C:\Users\ucenik\source\repos\igraKarte\obj\Debug\igraKarte.pdb
